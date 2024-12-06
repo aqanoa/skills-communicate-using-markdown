@@ -7,7 +7,7 @@
 
 ![Ein Bild von Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-### Ein Codebeispiel
+## Einige Codebeispiel
 ```
 $ git init
 Damit initialisiert man ein leeres Repo
@@ -20,3 +20,12 @@ let myVar = "Hello World!";
 ```php
 $myVar = "Hallo PHP";
 ```
+## Eine ToDo-Liste
+### eine offene Liste
+- [ ] die GitHub Pages inspizieren
+- [ ] mein Portfolio veröffnetlichen
+- [ ] mich der Welt vorstellen
+### eine abgearbeitete Liste
+- [x] Markdown-Header schreiben
+- [x] ein Bild in der Markdown einfügen
+- [x] eine ToDo-Liste schreiben  
