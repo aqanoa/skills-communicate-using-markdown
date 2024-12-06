@@ -25,6 +25,8 @@ $myVar = "Hallo PHP";
 - [ ] die GitHub Pages inspizieren
 - [ ] mein Portfolio veröffnetlichen
 - [ ] mich der Welt vorstellen
+
+Mit dieser Liste muss ich mich noch befassen, mit der folgenden bin ich alllerdings schon fertig
 ### eine abgearbeitete Liste
 - [x] Markdown-Header schreiben
 - [x] ein Bild in der Markdown einfügen
